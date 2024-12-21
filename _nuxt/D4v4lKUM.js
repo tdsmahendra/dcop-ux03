@@ -1,0 +1,1 @@
+import{c as s,b as e,w as a,s as n,o as r,U as c}from"./Cps1mMIH.js";import{_}from"./DlAUqK2U.js";const i={class:"items-center max-w-min mx-auto mt-10"},p={__name:"profile",setup(m){return(l,f)=>{const o=c,t=n;return r(),s("div",i,[e(t,null,{default:a(()=>[e(o,{path:"/profile"})]),_:1})])}}},x=_(p,[["__scopeId","data-v-47baebf8"]]);export{x as default};

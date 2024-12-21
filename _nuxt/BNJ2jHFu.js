@@ -1,0 +1,1 @@
+import{c as n,b as s,o as t,v as o}from"./Cps1mMIH.js";import{_ as c}from"./DlAUqK2U.js";const _={class:"flex justify-center py-10"},a={__name:"sign-in",setup(r){return(i,p)=>{const e=o;return t(),n("div",_,[s(e)])}}},f=c(a,[["__scopeId","data-v-cd0b2b95"]]);export{f as default};
